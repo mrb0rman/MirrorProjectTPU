@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneId: 0
-  _assetId: 1568397501
+  _assetId: 181893098
   serverOnly: 0
   visibility: 0
   hasSpawned: 0
@@ -151,7 +151,7 @@ MonoBehaviour:
   compressRotation: 1
   interpolatePosition: 1
   interpolateRotation: 1
-  interpolateScale: 0
+  interpolateScale: 1
   coordinateSpace: 0
   sendIntervalMultiplier: 1
   timelineOffset: 0
