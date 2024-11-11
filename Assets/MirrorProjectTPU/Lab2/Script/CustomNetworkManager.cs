@@ -1,4 +1,7 @@
+using System.Collections;
 using Mirror;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace MirrorProjectTPU.Lab2.Script
 {

@@ -1,13 +1,12 @@
 using Mirror;
 using UnityEngine;
 
-namespace MirrorProjectTPU.Lab2.Script
+namespace MirrorProjectTPU.Lab3.Script
 {
     public class NetworkController : MonoBehaviour
     {
         public void ConnectServer()
         {
-            // Изменено с StartHost на StartClient
             NetworkManager.singleton.StartClient();
         }
     }

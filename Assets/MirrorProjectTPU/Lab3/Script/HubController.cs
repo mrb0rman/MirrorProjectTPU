@@ -1,9 +1,9 @@
 using System;
 using Mirror;
-using MirrorProjectTPU.Lab2.Script.NetworkMessage;
+using MirrorProjectTPU.Lab3.Script.NetworkMessage;
 using UnityEngine;
 
-namespace MirrorProjectTPU.Lab2.Script
+namespace MirrorProjectTPU.Lab3.Script
 {
     [RequireComponent(typeof(NetworkIdentity))]
     public class HubController : NetworkBehaviour

@@ -47,5 +47,6 @@ public struct PlayerSetting
 
 public enum StateHub
 {
-    Nickname
+    Nickname,
+    Password
 }

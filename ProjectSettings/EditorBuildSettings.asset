@@ -5,11 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/MirrorProjectTPU/Lab3/Scene/Connect.unity
+    guid: 1ec961f4d0521a84aaeec2f30b6adcd2
   - enabled: 1
-    path: Assets/MirrorProjectTPU/Lab1/Scene/Offline.unity
-    guid: 894191f1768b4a14f9e4827ee487c6d7
+    path: Assets/MirrorProjectTPU/Lab3/Scene/Server.unity
+    guid: 316a5d70088854c43abc02f5d2e9b774
   - enabled: 1
-    path: Assets/MirrorProjectTPU/Lab1/Scene/Online.unity
-    guid: ac7d004edb129cb49afb9db7f6572302
+    path: Assets/MirrorProjectTPU/Lab3/Scene/Game.unity
+    guid: f9c9c6670d4d55841859c6a08da2d93f
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
