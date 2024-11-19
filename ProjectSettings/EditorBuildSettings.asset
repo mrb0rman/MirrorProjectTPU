@@ -6,13 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/MirrorProjectTPU/Lab3/Scene/Connect.unity
-    guid: 1ec961f4d0521a84aaeec2f30b6adcd2
+    path: Assets/MirrorProjectTPU/Lab4/Scenes/Game.unity
+    guid: cb2407e7c12cd304caee3ad461cf203f
   - enabled: 1
-    path: Assets/MirrorProjectTPU/Lab3/Scene/Server.unity
-    guid: 316a5d70088854c43abc02f5d2e9b774
-  - enabled: 1
-    path: Assets/MirrorProjectTPU/Lab3/Scene/Game.unity
-    guid: f9c9c6670d4d55841859c6a08da2d93f
+    path: Assets/MirrorProjectTPU/Lab4/Scenes/Server.unity
+    guid: 37b8c34fd74dd1e48897209edf13413f
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

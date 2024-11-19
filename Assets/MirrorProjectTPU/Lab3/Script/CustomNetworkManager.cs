@@ -50,6 +50,7 @@ namespace MirrorProjectTPU.Lab3.Script
         public override void OnStartServer()
         {
             StartCoroutine(ServerLoadSubScenes());
+            StopHost();
         }
 
         public override void OnStopClient()
